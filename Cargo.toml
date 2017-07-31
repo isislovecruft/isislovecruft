@@ -1,0 +1,14 @@
+[package]
+name = "isislovecruft"
+version = "0.0.0"
+authors = ["Isis Lovecruft <isis@patternsinthevoid.net>"]
+description = "Placeholder to protect my #brand."
+license = "CC0-1.0"
+repository = "https://github.com/isislovecruft/isis"
+homepage = "https://code.ciph.re/isis"
+documentation = "https://docs.rs/isis"
+exclude = [
+    ".gitignore"
+]
+
+[dependencies]
